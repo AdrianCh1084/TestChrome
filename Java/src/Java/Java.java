@@ -11,5 +11,7 @@ public class Java {
 
 	driver.get("www.topmaison.pl");
 	
+	driver.close();
+	
 	}
 }
